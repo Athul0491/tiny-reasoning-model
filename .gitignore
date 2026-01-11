@@ -1,0 +1,5 @@
+/.pytest_cache
+/trm_reasoner.egg-info
+/pyproject.toml
+/*/__pycache__
+/venv
