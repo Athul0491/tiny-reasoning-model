@@ -2,8 +2,8 @@
 
 This repository implements an end-to-end recursive reasoning system based on the research paper:
 
-`Less is More: Recursive Reasoning with Tiny Networks  
-Alexia Jolicoeur-Martineau et al.`
+>Less is More: Recursive Reasoning with Tiny Networks  
+>Alexia Jolicoeur-Martineau et al.
 
 The project reproduces the core idea of the Tiny Recursive Model (TRM):  
 a single small neural network that performs iterative reasoning by repeatedly updating an internal latent state and refining its answer.
@@ -147,9 +147,9 @@ This is the same structure used in production ML systems.
 ## 📚 Reference
 
 Paper:  
-Less is More: Recursive Reasoning with Tiny Networks  
-Alexia Jolicoeur-Martineau et al.  
-arXiv preprint, 2024  
+>Less is More: Recursive Reasoning with Tiny Networks  
+>Alexia Jolicoeur-Martineau et al.  
+>arXiv:2510.04871  
 
 Core contribution:  
 Recursive reasoning with a single tiny network can outperform much larger models by iterating computation rather than scaling parameters.
